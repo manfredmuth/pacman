@@ -48,4 +48,4 @@ As OpenShift is very sensitive about signatures, we need need to be rude and use
 ```podman search $REGISTRY/pacman-demo```
 This should show you the image you just pushed to the OpenShift local Quay registry.
 
-[<- Back to MAIN](../../README.md)
+[<- Back to MAIN](./README.md)
